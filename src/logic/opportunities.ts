@@ -134,6 +134,12 @@ export const opportunities = [
     type: 'Mentorship for Women',
   },
   {
+    name: 'Microsoft Reinforcement Learning Open Source Fest',
+    link: 'https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/',
+    deadline: '1 March',
+    type: 'Open Source Fest',
+  },
+  {
     name: 'Crossroads Emerging Leaders Program',
     link: 'https://cmes.fas.harvard.edu/crossroads-emerging-leaders-program',
     deadline: '8 March',
@@ -740,6 +746,13 @@ export const opportunities = [
     link: 'https://dare2compete.com/scholarship/daad-scholarship-university-of-bonn-germany-188554?lb=nciUx5O',
     deadline: '31 August 2021',
     type: 'Scholarship',
+  },
+
+  {
+    name: 'Hack-O-Uplift',
+    link: 'https://uplift.girlscript.tech/hack-o-uplift',
+    deadline: '30 August 2021',
+    type: 'Hackathon',
   },
   //end of aug
   
